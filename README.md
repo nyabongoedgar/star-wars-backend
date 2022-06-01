@@ -1,5 +1,14 @@
 # Star wars - server
 
+## Live server address
+
+
+## To run locally
+```
+$ npm start
+```
+
+
 This application satisfies the queries below
 
 1. You should develop an Apollo GraphQL API
