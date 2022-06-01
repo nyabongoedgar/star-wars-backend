@@ -1,7 +1,7 @@
 # Star wars - server
 
 ## Live server address
-
+https://star-wars-api-backend.herokuapp.com/
 
 ## To run locally
 ```
